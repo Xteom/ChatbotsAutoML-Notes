@@ -1,0 +1,6 @@
+openai==0.28.0
+tiktoken
+chromadb
+unstructured
+unstructured[local-inference]
+gradio==3.28.1

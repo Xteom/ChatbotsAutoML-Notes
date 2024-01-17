@@ -1,0 +1,6 @@
+[submodule "LLAMA-Romantica"]
+	path = LLAMA-Romantica
+	url = https://huggingface.co/spaces/Xteom/LLAMA-Romantica
+[submodule "GPT-Romantico"]
+	path = GPT-Romantico
+	url = https://huggingface.co/spaces/Xteom/GPT-Romantico
